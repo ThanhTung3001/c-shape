@@ -1,0 +1,14 @@
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\bin\Debug\netcoreapp3.1\StudentMgm.exe
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\bin\Debug\netcoreapp3.1\StudentMgm.deps.json
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\bin\Debug\netcoreapp3.1\StudentMgm.runtimeconfig.json
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\bin\Debug\netcoreapp3.1\StudentMgm.runtimeconfig.dev.json
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\bin\Debug\netcoreapp3.1\StudentMgm.dll
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\bin\Debug\netcoreapp3.1\StudentMgm.pdb
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\obj\Debug\netcoreapp3.1\StudentMgm.csproj.AssemblyReference.cache
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\obj\Debug\netcoreapp3.1\StudentMgm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\obj\Debug\netcoreapp3.1\StudentMgm.AssemblyInfoInputs.cache
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\obj\Debug\netcoreapp3.1\StudentMgm.AssemblyInfo.cs
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\obj\Debug\netcoreapp3.1\StudentMgm.csproj.CoreCompileInputs.cache
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\obj\Debug\netcoreapp3.1\StudentMgm.dll
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\obj\Debug\netcoreapp3.1\StudentMgm.pdb
+C:\Users\tungl\source\repos\StudentMgm\StudentMgm\obj\Debug\netcoreapp3.1\StudentMgm.genruntimeconfig.cache
